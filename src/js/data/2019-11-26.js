@@ -413,7 +413,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Noel Seeker",
+    name: "Fran Seeker",
     img: "LXus3eP.png",
     opts: {
       series: ["MoF", "SA", "soku", "DS", "HM", "ISC", "VD"],
