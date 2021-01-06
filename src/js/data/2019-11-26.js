@@ -133,7 +133,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Eolia",
+    name: "Aeolia",
     img: "dsDOH7x.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC" ],
