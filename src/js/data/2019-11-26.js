@@ -517,7 +517,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Maybelle",
+    name: "Lila",
     img: "m8Bdr0Y.png",
     opts: {
       series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
