@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Elaine Auclaire",
+    name: "Elaine Auclair",
     img: "FfmlVkm.png",
     opts: {
       series: ["book", "PoFV", "StB", "SWR", "soku", "HM"],
